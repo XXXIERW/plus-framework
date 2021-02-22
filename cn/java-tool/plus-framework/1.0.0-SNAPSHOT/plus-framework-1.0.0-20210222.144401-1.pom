@@ -13,6 +13,7 @@
     <artifactId>plus-framework</artifactId>
     <packaging>pom</packaging>
     <version>1.0.0-SNAPSHOT</version>
+    <url>https://github.com/XXXIERW/java-tool</url>
     <modules>
 <!--        用于存放基本适配于java8的处理工具类-->
         <module>plus-core</module>
